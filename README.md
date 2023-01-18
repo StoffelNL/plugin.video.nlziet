@@ -1,39 +1,29 @@
 # plugin.video.nlziet
 
-### About
+### Wat is het?
 
--Watch NLZiet live TV and content from anywhere in the EU
+Dit is een afgeleide van de Kodi-plugin voor NLZIET uit https://github.com/dut-iptv/dut-iptv
+Je kunt er voornamelijk nederlandstalige omroepen mee bekijken, zowel live als terugkijken.
+Zie https://www.nlziet.nl
 
-### Features
+### Wat kan het?
 
--Unofficial 3rd Party NLZiet plugin for Kodi
+-Dit is een onofficiële NLZiet-plugin voor Kodi
 
--Watch live TV for supported channels in your subscription
+-Kijk naar live naar de zenders binnen je abonnement
 
--Replay programs from the last 7 days for supported channels in your subscription
+-Kijk programma's van de afgelopen 7 dagen terug
 
--Watch video on demand (VOD) content
+-Kijk naar 'Video on demand (VOD)'
 
--Search content
+-Zoek in het aanbod van NLZIET
 
 -Supports watching TV and listening to radio using the IPTV Simple PVR Addon (through the separate Dut-IPTV Simple IPTV Connector addon)
 
 -Supports catchup using IPTV Simple PVR Addon (through the separate Dut-IPTV Simple IPTV Connector addon)
 
-### Maximum supported Resolution
+### Wat heb je nodig:
 
-- 1080P
+- Een NLZIET-abonnement
 
-### Required
-
--Subscription to NLZiet (not free)
-
--Kodi 19 or higher with Widevine Support (free)
-
-### Thanks
-
--Matt Huisman for his development of the kodi addons that where used as a base for this addon
-
--peak3d for Inputstream Adaptive
-
--Team Kodi for Kodi
+- Kodi 19 of  hoger met Widevine Support
