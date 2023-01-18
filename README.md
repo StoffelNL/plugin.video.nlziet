@@ -7,9 +7,12 @@ Dit is een afgeleide van de Kodi-plugin voor NLZIET uit https://github.com/dut-i
 Je kunt er voornamelijk nederlandstalige omroepen mee bekijken, zowel live als terugkijken.
 Zie https://www.nlziet.nl
 
+Dit is vooral een 'hack&pruts'-projectje om te leren hoe Kodi-addon's in elkaar zitten.
+Allemaal onder het motto: Pak iets dat werkt, pas het het aan en kijk wat er gebeurt. Dus je bent gewaarschuwd ;-)
+
 ### Wat kan het?
 
--Dit is een onofficiële NLZiet-plugin voor Kodi
+-Dit is een onofficiële NLZIET-plugin voor Kodi
 
 -Kijk naar live naar de zenders binnen je abonnement
 
