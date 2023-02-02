@@ -14,7 +14,7 @@ Allemaal onder het motto: Pak iets dat werkt, pas het het aan en kijk wat er geb
 
 -Dit is een onofficiële NLZIET-plugin voor Kodi
 
--Kijk naar live naar de zenders binnen je abonnement
+-Kijk live naar de zenders binnen je abonnement
 
 -Kijk programma's van de afgelopen 7 dagen terug
 
